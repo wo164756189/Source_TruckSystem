@@ -223,10 +223,10 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label_9">
    <property name="geometry">
     <rect>
-     <x>245</x>
+     <x>240</x>
      <y>1160</y>
-     <width>60</width>
-     <height>20</height>
+     <width>70</width>
+     <height>30</height>
     </rect>
    </property>
    <property name="font">
@@ -236,7 +236,7 @@ p, li { white-space: pre-wrap; }
     </font>
    </property>
    <property name="text">
-    <string>铸铁机</string>
+    <string>铁水浇筑</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignCenter</set>
@@ -248,7 +248,7 @@ p, li { white-space: pre-wrap; }
      <x>645</x>
      <y>1160</y>
      <width>60</width>
-     <height>20</height>
+     <height>30</height>
     </rect>
    </property>
    <property name="font">
@@ -270,7 +270,7 @@ p, li { white-space: pre-wrap; }
      <x>1045</x>
      <y>1160</y>
      <width>60</width>
-     <height>20</height>
+     <height>30</height>
     </rect>
    </property>
    <property name="font">
@@ -292,7 +292,7 @@ p, li { white-space: pre-wrap; }
      <x>1445</x>
      <y>1160</y>
      <width>60</width>
-     <height>20</height>
+     <height>30</height>
     </rect>
    </property>
    <property name="font">
@@ -314,7 +314,7 @@ p, li { white-space: pre-wrap; }
      <x>645</x>
      <y>660</y>
      <width>60</width>
-     <height>20</height>
+     <height>30</height>
     </rect>
    </property>
    <property name="font">
@@ -336,7 +336,7 @@ p, li { white-space: pre-wrap; }
      <x>1045</x>
      <y>660</y>
      <width>60</width>
-     <height>20</height>
+     <height>30</height>
     </rect>
    </property>
    <property name="font">
@@ -482,7 +482,7 @@ p, li { white-space: pre-wrap; }
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap resource="mainframe.qrc">:/MainFrame/Resources/卡车左.png</pixmap>
+    <pixmap resource="mainframe.qrc">:/MainFrame/Resources/卡车左_.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>

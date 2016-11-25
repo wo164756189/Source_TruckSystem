@@ -1,22 +1,38 @@
 <RCC>
   <qresource prefix="MainFrame">
-    <file>Resources/上.png</file>
-    <file>Resources/下.png</file>
-    <file>Resources/右.png</file>
-    <file>Resources/左.png</file>
+    <file>Resources/1-4.png</file>
+    <file>Resources/2-1.png</file>
+    <file>Resources/2-2.png</file>
+    <file>Resources/3-1.png</file>
+    <file>Resources/23214.png</file>
     <file>Resources/1173205.png</file>
     <file>Resources/1173209.png</file>
     <file>Resources/1173213.png</file>
     <file>Resources/1173222.png</file>
     <file>Resources/1173237.png</file>
-    <file>Resources/高炉.png</file>
-    <file>Resources/no.png</file>
-    <file>Resources/yes.png</file>
-    <file>Resources/连铸.png</file>
-    <file>Resources/卡车右.png</file>
-    <file>Resources/卡车左.png</file>
-    <file>Resources/停车场.png</file>
-    <file>Resources/铸铁机.png</file>
+    <file>Resources/down.png</file>
+    <file>Resources/down_trans.png</file>
+    <file>Resources/left.png</file>
     <file>Resources/logo.png</file>
+    <file>Resources/no.png</file>
+    <file>Resources/right.png</file>
+    <file>Resources/up.png</file>
+    <file>Resources/up_trans.png</file>
+    <file>Resources/yes.png</file>
+    <file>Resources/钢包.png</file>
+    <file>Resources/高炉.png</file>
+    <file>Resources/卡车右.png</file>
+    <file>Resources/卡车右_.png</file>
+    <file>Resources/卡车左.png</file>
+    <file>Resources/卡车左_.png</file>
+    <file>Resources/连铸.png</file>
+    <file>Resources/上.png</file>
+    <file>Resources/天车.jpg</file>
+    <file>Resources/停车场.png</file>
+    <file>Resources/脱硫车.png</file>
+    <file>Resources/下.png</file>
+    <file>Resources/右.png</file>
+    <file>Resources/铸铁机.png</file>
+    <file>Resources/左.png</file>
   </qresource>
 </RCC>
