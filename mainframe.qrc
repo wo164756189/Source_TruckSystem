@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="MainFrame">
+    <file>Resources/上.png</file>
+    <file>Resources/下.png</file>
+    <file>Resources/右.png</file>
+    <file>Resources/左.png</file>
+    <file>Resources/1173205.png</file>
+    <file>Resources/1173209.png</file>
+    <file>Resources/1173213.png</file>
+    <file>Resources/1173222.png</file>
+    <file>Resources/1173237.png</file>
+    <file>Resources/高炉.png</file>
+    <file>Resources/no.png</file>
+    <file>Resources/yes.png</file>
+    <file>Resources/连铸.png</file>
+    <file>Resources/卡车右.png</file>
+    <file>Resources/卡车左.png</file>
+    <file>Resources/停车场.png</file>
+    <file>Resources/铸铁机.png</file>
+    <file>Resources/logo.png</file>
+  </qresource>
+</RCC>
